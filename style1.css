@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 100px;
+    width: 100%;
+    padding-left: 7%;
+    border: 2px solid red;
+}
+h2{
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+    
+} 
+img{
+    position: relative;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 28%;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+    color: white;
+}
+.footer{
+    position: absolute;
+    top: 60%;
+    left: 0%;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+    color: white;
+}
+#footer-btn{
+    position: absolute;
+    top: 70%;
+    left: 43%;
+    color: white;
+    padding: 20px;
+}
